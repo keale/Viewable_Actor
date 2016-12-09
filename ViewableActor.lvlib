@@ -9,5 +9,6 @@
 		<Item Name="Open Front Panel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Open Front Panel Msg/Open Front Panel Msg.lvclass"/>
 		<Item Name="Remove From SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Remove From SubPanel Msg/Remove From SubPanel Msg.lvclass"/>
 	</Item>
+	<Item Name="Set Window Titel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Set Window Titel Msg/Set Window Titel Msg.lvclass"/>
 	<Item Name="ViewableActor.lvclass" Type="LVClass" URL="../ViewableActor/ViewableActor.lvclass"/>
 </Library>
