@@ -1,5 +1,6 @@
 # Viewable_Actor (farther VA)
 is a ancestor or delegation class for LabVIEW(2014 or higher) Actors which should be shown in a sub panel or in an own window.
+The class was extracted from SimonH's  Windows 8 Style UI demo and slightly extendet. Great Thanks to SimonH!
 
 A common LabVIEW praxis is usage of subpanels showing a SubVI in order to create flexible and reusable pieces of code. In my oppinion this technik develops the full potential in combination with LabVIEW Actor Framework. In order to make the developers life easier, VA summarize the frequently used operation like "Instert Into SubPanel", "Remove from SubPanel", "Open Frontpanel", "Set Window Titel". 
 
