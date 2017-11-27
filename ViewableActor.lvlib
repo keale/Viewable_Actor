@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
+		<Item Name="Get Bounds and Position Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Get Bounds and Position Msg/Get Bounds and Position Msg.lvclass"/>
 		<Item Name="Insert Into SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Insert Into SubPanel Msg/Insert Into SubPanel Msg.lvclass"/>
 		<Item Name="Open Front Panel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Open Front Panel Msg/Open Front Panel Msg.lvclass"/>
 		<Item Name="Remove From SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Remove From SubPanel Msg/Remove From SubPanel Msg.lvclass"/>
