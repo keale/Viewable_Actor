@@ -2,7 +2,10 @@
 <LVClass LVVersion="14008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">ViewableActor.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../ViewableActor.lvlib</Property>
-	<Property Name="NI.Lib.Description" Type="Str">Based on SIMONS </Property>
+	<Property Name="NI.Lib.Description" Type="Str">The implementation is based on great SimonH Windows 8 Style UI Framework
+https://forums.ni.com/t5/UI-Interest-Group-Documents/Windows-8-Style-UI-demo/ta-p/3496737
+
+This class summarize the frequently used operation like "Insert Into SubPanel", "Remove from SubPanel", "Open Front panel", "Set Window Title". If Actor is shown in own window, its position and size will be stored and after relaunch the actor appears at the same place.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*(!!!*Q(C=\&gt;5R4O.!&amp;-&lt;RDV5+WNRAF3M]C7Y,J"2QA"15N/]+&lt;CF4U\U&lt;L(S&amp;8/&amp;*?Y)=9*N=Q@RH]L!#"6E*U&amp;*AZQ8\']`-,`&lt;)3(W\F";;TGUX&lt;W\`U(\=8[:6=`PL8K`&lt;JZO4T^2HH5_/2^/P[?3AH`4PO&lt;V@0*XWLZ0X`LYT\7=W@7`@W``&gt;(MYOUE^@MR&gt;K,S)KK;#=-L7JJC20]C20]C20]C!0]C!0]C!0=C&gt;X=C&gt;X=C&gt;X=C-X=C-X=C-X]L[4CVTE)I?54*Z-F!S;$*"=$%8*6_**0)EH]8#KR*.Y%E`C34R=IM34?"*0YEE]&gt;&amp;0C34S**`%E(I&lt;KEOQ\/:\%Q`!+0)%H]!3?Q-/5#DQ")*AM'$A9");#RO!A]!3?Q-/B!E`A#4S"*`$1L-!4?!*0Y!E]&gt;/FX*&lt;KG\?2Y'%;/R`%Y(M@D?"B;DM@R/"\(YXC94I\(]4A):U*H=!BS/DE8/#?/R`(Q2Y\(]4A?R_.Y;/J0S0O&gt;;:KWE_-R0)&lt;(]"A?Q]-1-DS'R`!9(M0$M$)]BM@Q'"\$QV1S0)&lt;(]"A19V+GFT'9U&gt;'YS!A-$Z__7KQ`J?A3[\N5CV?V+&amp;7,4&lt;7)6)N$^&gt;"6$V0VE&amp;1X8X6464&gt;,&gt;2.50U[&amp;6G&amp;5E[A[NQNVY(N0\;C2WF)$N;(7V)J;NKY@@/(B=."_P^&gt;ON^-YDNJONRK'1:P.2OPV7KP63MPF=HY.`'3@8QD(^^)$R[V',;Z`5_0NV?XDX_(_]=`6X8.&lt;KU`[8`I&amp;XIX[I&gt;.RO5&gt;0%VKC7Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
