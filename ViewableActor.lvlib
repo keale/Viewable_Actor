@@ -12,4 +12,5 @@
 		<Item Name="Set Window Titel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Set Window Titel Msg/Set Window Titel Msg.lvclass"/>
 	</Item>
 	<Item Name="ViewableActor.lvclass" Type="LVClass" URL="../ViewableActor/ViewableActor.lvclass"/>
+	<Item Name="ViewableActorEncaps.lvclass" Type="LVClass" URL="../ViewableActorEncaps/ViewableActorEncaps.lvclass"/>
 </Library>
