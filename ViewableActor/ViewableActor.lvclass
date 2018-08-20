@@ -42,13 +42,13 @@ This class summarize the frequently used operation like "Insert Into SubPanel", 
 			<Property Name="NI.ClassItem.State" Type="Int">1082139152</Property>
 		</Item>
 		<Item Name="Open Front Panel.vi" Type="VI" URL="../Open Front Panel.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;7!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!"&amp;7;76X97*M:5&amp;D&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!""7;76X97*M:5&amp;D&gt;'^S)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!"&amp;7;76X97*M:5&amp;D&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!""7;76X97*M:5&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 		<Item Name="Remove From SubPanel.vi" Type="VI" URL="../Remove From SubPanel.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!"&amp;7;76X97*M:5&amp;D&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!""7;76X97*M:5&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!A!!!!!</Property>
