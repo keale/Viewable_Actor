@@ -51,6 +51,7 @@ If the inheritance is not possible, you can create a VA object in your class clu
 		<Item Name="Open Front Panel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Open Front Panel Msg/Open Front Panel Msg.lvclass"/>
 		<Item Name="Remove From SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Remove From SubPanel Msg/Remove From SubPanel Msg.lvclass"/>
 		<Item Name="Set Window Titel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Set Window Titel Msg/Set Window Titel Msg.lvclass"/>
+		<Item Name="Write Actor Name Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Write Actor Name Msg/Write Actor Name Msg.lvclass"/>
 	</Item>
 	<Item Name="ViewableActor.lvclass" Type="LVClass" URL="../ViewableActor/ViewableActor.lvclass"/>
 	<Item Name="ViewableActorEncaps.lvclass" Type="LVClass" URL="../ViewableActorEncaps/ViewableActorEncaps.lvclass"/>
