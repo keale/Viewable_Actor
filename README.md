@@ -12,3 +12,7 @@ The simplest way to use this class is to inherit UI actors from VA or from VAE:
 Usually Actor Core.vi implements UI, so you must set the property "UI Vi Ref" with "This VI" constant before the call of ancestor Actor Core. After launch of UI Actor in your application just send a subpanel reference with "Send Insert into SupPanel Msg.vi" to your UI and the UI Actor appears in the subpanel.
 
 If the inheritance is not possible, you can create a VA object in your class cluster, set the reference to UI vi and define some wrapper messages for delegation to VA object.
+
+
+Licensed under the EUPL
+http://data.europa.eu/eli/dec_impl/2017/863/oj
