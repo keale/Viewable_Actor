@@ -59,17 +59,18 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
-	<Item Name="Messages" Type="Folder">
+	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Get Bounds and Position Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Get Bounds and Position Msg/Get Bounds and Position Msg.lvclass"/>
+		<Item Name="Hide Front Panel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Hide Front Panel Msg/Hide Front Panel Msg.lvclass"/>
 		<Item Name="Insert Into SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Insert Into SubPanel Msg/Insert Into SubPanel Msg.lvclass"/>
 		<Item Name="Open Front Panel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Open Front Panel Msg/Open Front Panel Msg.lvclass"/>
 		<Item Name="Remove From SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Remove From SubPanel Msg/Remove From SubPanel Msg.lvclass"/>
 		<Item Name="Send Set most in front and shift.vi" Type="VI" URL="../ViewableActor Messages/Send Set most in front and shift.vi"/>
+		<Item Name="Set IsFrontMost Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Set IsFrontMost Msg/Set IsFrontMost Msg.lvclass"/>
 		<Item Name="Set Window Titel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Set Window Titel Msg/Set Window Titel Msg.lvclass"/>
+		<Item Name="Shift Window Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Shift Window Msg/Shift Window Msg.lvclass"/>
 		<Item Name="Write Actor Name Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Write Actor Name Msg/Write Actor Name Msg.lvclass"/>
 	</Item>
-	<Item Name="Set IsFrontMost Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Set IsFrontMost Msg/Set IsFrontMost Msg.lvclass"/>
-	<Item Name="Shift Window Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Shift Window Msg/Shift Window Msg.lvclass"/>
 	<Item Name="ViewableActor.lvclass" Type="LVClass" URL="../ViewableActor/ViewableActor.lvclass"/>
 	<Item Name="ViewableActorEncaps.lvclass" Type="LVClass" URL="../ViewableActorEncaps/ViewableActorEncaps.lvclass"/>
 </Library>
