@@ -188,6 +188,15 @@ This class summarize the frequently used operation like "Insert Into SubPanel", 
 			</Item>
 		</Item>
 	</Item>
+	<Item Name="Disable FP Updates.vi" Type="VI" URL="../Disable FP Updates.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;6!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!"&amp;7;76X97*M:5&amp;D&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!R!)1&gt;%;8.B9GRF!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!""7;76X97*M:5&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!1!!!!E!!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+	</Item>
 	<Item Name="Get Bounds and Position.vi" Type="VI" URL="../Get Bounds and Position.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*2!!!!&amp;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#U!#!!2-:7:U!!!*1!)!!V2P=!!,1!)!"6*J:WBU!!V!!A!'1G^U&gt;'^N!!!]!0%!!!!!!!!!!2&amp;-6F*F9X25?8"F2'6G,G.U&lt;!!C1&amp;!!"!!%!!5!"A!($F&gt;J&lt;G2P&gt;X-A1G^V&lt;G2T!!!,1!=!"6&gt;J:(2I!!V!"Q!'3'6J:WBU!!!Y!0%!!!!!!!!!!2.-6E*P&gt;7ZE=V2Z='6%:79O9X2M!"R!5!!#!!E!#AR197ZF&lt;#"#&lt;X6O:(-!!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!"&amp;7;76X97*M:5&amp;D&gt;'^S)'^V&gt;!!,1!-!"%RF:H1!!!F!!Q!$6'^Q!$Q!]1!!!!!!!!!"&amp;5R75'^T;82J&lt;WZ5?8"F2'6G,G.U&lt;!!?1&amp;!!!A!.!!Y/5'&amp;O:7QA5'^T;82J&lt;WY!!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!""7;76X97*M:5&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!A!#Q!-!!]!%!!1!"!!%1!1!"!!%A-!!(A!!!U)!!!*!!!!#1!!!)U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!E!!!!!!"!"-!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -204,7 +213,7 @@ This class summarize the frequently used operation like "Insert Into SubPanel", 
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
 	</Item>
 	<Item Name="Insert Into SubPanel.vi" Type="VI" URL="../Insert Into SubPanel.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;D!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%V:J:8&gt;B9GRF17.U&lt;X)O&lt;(:M;7)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!"&amp;7;76X97*M:5&amp;D&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"J!=!!)!!!!11!!$&amp;.V9F"B&lt;G6M)&amp;*F:A!!2E"Q!"Y!!#M46GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;GRJ9B67;76X97*M:5&amp;D&gt;'^S,GRW9WRB=X-!%&amp;:J:8&gt;B9GRF17.U&lt;X)A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!#3!!!!!!%!#1!!!!!</Property>
