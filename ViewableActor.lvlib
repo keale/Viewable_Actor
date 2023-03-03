@@ -64,6 +64,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="Hide Front Panel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Hide Front Panel Msg/Hide Front Panel Msg.lvclass"/>
 		<Item Name="Insert Into SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Insert Into SubPanel Msg/Insert Into SubPanel Msg.lvclass"/>
 		<Item Name="Open Front Panel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Open Front Panel Msg/Open Front Panel Msg.lvclass"/>
+		<Item Name="Proceed Menu Selection Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Proceed Menu Selection Msg/Proceed Menu Selection Msg.lvclass"/>
 		<Item Name="Remove From SubPanel Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Remove From SubPanel Msg/Remove From SubPanel Msg.lvclass"/>
 		<Item Name="Send Set most in front and shift.vi" Type="VI" URL="../ViewableActor Messages/Send Set most in front and shift.vi"/>
 		<Item Name="Set IsFrontMost Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Set IsFrontMost Msg/Set IsFrontMost Msg.lvclass"/>
