@@ -72,6 +72,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="Shift Window Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Shift Window Msg/Shift Window Msg.lvclass"/>
 		<Item Name="Write Actor Name Msg.lvclass" Type="LVClass" URL="../ViewableActor Messages/Write Actor Name Msg/Write Actor Name Msg.lvclass"/>
 	</Item>
+	<Item Name="CloseConfigFile.vi" Type="VI" URL="../CloseConfigFile.vi"/>
+	<Item Name="FGVConfigFIleSemaphore.vi" Type="VI" URL="../FGVConfigFIleSemaphore.vi"/>
+	<Item Name="OpenConfigFile.vi" Type="VI" URL="../OpenConfigFile.vi"/>
 	<Item Name="ViewableActor.lvclass" Type="LVClass" URL="../ViewableActor/ViewableActor.lvclass"/>
 	<Item Name="ViewableActorEncaps.lvclass" Type="LVClass" URL="../ViewableActorEncaps/ViewableActorEncaps.lvclass"/>
 </Library>
